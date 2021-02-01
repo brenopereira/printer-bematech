@@ -1,0 +1,24 @@
+{
+  "name": "printer-bematech-electron",
+  "version": "1.0.0",
+  "description": "Package for printing on the TH-4200 thermal printer using electron.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenopereira/printer-bematech.git"
+  },
+  "keywords": [],
+  "author": "Breno Pereira <brenomartinsxd@gmail.com>",
+  "license": "“MIT”",
+  "bugs": {
+    "url": "https://github.com/brenopereira/printer-bematech/issues"
+  },
+  "homepage": "https://github.com/brenopereira/printer-bematech#readme",
+  "dependencies": {
+    "net": "^1.0.2",
+    "socket.io": "^3.1.0"
+  }
+}
